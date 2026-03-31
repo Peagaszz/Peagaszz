@@ -139,14 +139,14 @@ Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" 
 />
           
-          
-<br>
+---
+       
 
 ### 📂 Projetos
 
  - 📂 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Repositório](https://github.com/SkyGreens/SkyGreens)
   
-<br>
+---
 
 ### 📞 Contato 
   
