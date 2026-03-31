@@ -147,6 +147,8 @@ Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a 
 ### 📂 Projetos
 
  - 📂 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Repositório](https://github.com/SkyGreens/SkyGreens)
+
+ - 📂 **Churn Analysis**: Projeto de Machine Learning para prever cancelamento de clientes utilizando Python. [Repositório]([https://github.com/SkyGreens/SkyGreens](https://github.com/Peagaszz/customer-churn-analysis))
   
 ---
 
