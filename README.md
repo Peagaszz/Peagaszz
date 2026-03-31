@@ -140,13 +140,14 @@ Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a 
 <br>
 <br>
 
-## 📂 Projetos 
+📂 Projetos 
 
  - 📂 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Repositório](https://github.com/SkyGreens/SkyGreens)
   
 <br>
-## 📞 Como Entrar em Contato 
+📞 Contato 
   
+<br>
 <br>
 
 <div> 
