@@ -138,9 +138,8 @@ Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a 
     color=" white" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" 
 />
-          
----
        
+---       
 
 ### 📂 Projetos
 
