@@ -7,7 +7,9 @@ Atualmente estudo e desenvolvo projetos utilizando Python, aplicando técnicas d
 Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a dados, programação e tecnologia..
 
 <br>
+
 ---
+
 <br>
 
 ### 🤖 Linguagens e Tecnologias
@@ -84,9 +86,11 @@ Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a 
     style="padding-right: 10px;" 
     color=" white" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"                         
-/>        
+/>  
 
+<br>
 ---   
+<br>
 
 <img 
     align="left" 
@@ -151,7 +155,6 @@ Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a 
 
 ### 📞 Contato 
   
-<br>
   <a href="https://www.linkedin.com/in/peagaa"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/ppeagas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.peaga5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
