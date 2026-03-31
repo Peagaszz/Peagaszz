@@ -145,3 +145,13 @@ Aqui no GitHub compartilho meus projetos, estudos e experimentos relacionados a 
  - 📂 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Repositório](https://github.com/SkyGreens/SkyGreens)
   
 <br>
+## 📞 Como Entrar em Contato 
+  
+<br>
+
+<div> 
+  <a href="https://www.linkedin.com/in/peagaa"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ppeagas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.peaga5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
