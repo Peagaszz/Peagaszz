@@ -144,10 +144,11 @@ Me chamo Pedro Henrique sou formado em Análise e Desenvolvimento de Sistemas, c
 
 ### 📂 Projetos
 
- - 📂 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Repositório](https://github.com/SkyGreens/SkyGreens)
+ - 📂 **Dashboard Power BI**: Dashboard interativo desenvolvido em Power BI para análise de faturamento, vendas e comportamento de clientes. [Repositório](https://github.com/Peagaszz/powerbi-dashboard-petshop)
 
  - 📂 **Churn Analysis**: Projeto de Machine Learning para prever cancelamento de clientes utilizando Python. [Repositório](https://github.com/Peagaszz/customer-churn-analysis)
-  
+
+ - 📂 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Repositório](https://github.com/SkyGreens/SkyGreens)
 ---
 
 ### 📞 Contato 
