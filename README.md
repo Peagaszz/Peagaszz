@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-Me chamo Pedro Henrique e curso Análise e Desenvolvimento de Sistemas, com foco em análise de dados e Business Intelligence. Tenho experiência no desenvolvimento de projetos utilizando Python, Power BI e SQL, aplicando análise exploratória, visualização de dados e construção de dashboards para geração de insights e apoio à tomada de decisão. Aqui no GitHub compartilho projetos, estudos e aplicações práticas voltadas a dados, programação e tecnologia..
+Me chamo Pedro Henrique e sou formado em Análise e Desenvolvimento de Sistemas, com foco em análise de dados e Business Intelligence. Tenho experiência no desenvolvimento de projetos utilizando Python, Power BI e SQL, aplicando análise exploratória, visualização de dados e construção de dashboards para geração de insights e apoio à tomada de decisão. Aqui no GitHub compartilho projetos, estudos e aplicações práticas voltadas a dados, programação e tecnologia..
 
 
 ---
